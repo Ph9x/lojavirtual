@@ -2,4 +2,4 @@
 
 texto alterado no repositório local(2).
 
-TEXTO ALTERADO VIA GITHUB WEB.
+TEXTO ALTERADO VIA GITHUB WEB (2).
